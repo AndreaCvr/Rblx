@@ -1,5 +1,5 @@
 # Rblx
-DevLogs do game Rblx
+DevLogs do game Rblx.
 
 Devlogs criados para o acompanhamento da produção do jogo Rblx.
 
